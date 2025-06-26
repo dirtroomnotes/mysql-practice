@@ -14,3 +14,4 @@ A fun themed project modeling a 90s music collection with tables for artists, al
 - Querying across multiple tables using JOINs  
 
 Feel free to explore the `90s-music.sql` file to see the full SQL code and example queries.
+# digital-notebook
